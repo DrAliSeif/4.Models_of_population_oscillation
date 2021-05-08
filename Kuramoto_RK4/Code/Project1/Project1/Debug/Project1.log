@@ -1,0 +1,9 @@
+﻿  Source.cpp
+E:\4.Models_of_population_Oscillation\Project1\Project1\Kuramoto.h(103,19): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+E:\4.Models_of_population_Oscillation\Project1\Project1\Kuramoto.h(140,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\4.Models_of_population_Oscillation\Project1\Project1\Kuramoto.h(141,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Project1.vcxproj -> E:\4.Models_of_population_Oscillation\Project1\Debug\Project1.exe
