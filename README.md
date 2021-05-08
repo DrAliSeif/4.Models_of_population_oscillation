@@ -1,2 +1,2 @@
-# 4.Models_of_population_oscillation
+# 4.Models of population oscillation
 Models of population oscillation
