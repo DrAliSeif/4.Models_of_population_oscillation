@@ -7,6 +7,11 @@ __________________________________________________________________
  <img src="https://github.com/aliseif321/4.Models_of_population_oscillation/blob/main/Kuramoto_RK4_update/Picture/Fully%20connection%20network%20with%20500%20nodes.png?raw=true" >
  </p>
  
+ 
+ 
+ <p align="center">
+ <img src="https://github.com/aliseif321/4.Models_of_population_oscillation/blob/main/Kuramoto_RK4_update/Picture/book.png?raw=true" >
+ </p>
 _______________________________________________________
 
 ## main
