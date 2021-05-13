@@ -12,6 +12,11 @@ __________________________________________________________________
  <p align="center">
  <img src="https://github.com/aliseif321/4.Models_of_population_oscillation/blob/main/Kuramoto_RK4_update/Picture/book.png?raw=true" >
  </p>
+ 
+  <p align="center">
+ <img src=" https://github.com/aliseif321/4.Models_of_population_oscillation/blob/main/Kuramoto_RK4_update/Picture/WhatsApp%20Image%202021-05-13%20at%203.43.11%20PM.jpeg?raw=true
+" >
+ </p>
 _______________________________________________________
 
 ## main
